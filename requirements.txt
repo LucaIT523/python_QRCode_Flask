@@ -1,0 +1,7 @@
+requests
+pdf2image
+pyzbar
+pillow
+pytesseract
+opencv-python
+flask

@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt install python3-pip
+
+sudo apt install libopencv-dev
+sudo apt install poppler-utils
+sudo apt install libzbar-dev
